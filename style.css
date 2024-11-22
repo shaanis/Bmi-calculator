@@ -11,7 +11,7 @@
 }
 .container1{
     height: 350px;
-    width: 350px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
